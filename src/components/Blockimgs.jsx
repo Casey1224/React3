@@ -1,6 +1,6 @@
 import React from "react";
 export default function Blockimgs() {
-    console.log("whatever")
+
     return (
         <section className="hero">
             <img src="/Group77.png" className="hero--photo" />
